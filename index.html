@@ -16,7 +16,10 @@
     .feature h3 { margin-bottom: 0.75rem; color: #1e1e1e; }
     .feature p { font-size: 0.95rem; }
     .cta { text-align: center; margin: 3rem 0; }
-    .btn { display: inline-block; background: #ff4757; color: #fff; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 4px; font-weight: bold; }
+    .btn { display: inline-block; background: #ff4757; color: #fff; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 4px; font-weight: bold; margin: 0.5rem; }
+    #privacy { background: #fff; padding: 2rem 1rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin: 2rem 0; }
+    #privacy h2 { margin-bottom: 1rem; color: #1e1e1e; }
+    #privacy p { margin-bottom: 0.75rem; font-size: 0.95rem; }
     footer { text-align: center; padding: 1rem 0; font-size: 0.9rem; color: #666; }
   </style>
 </head>
@@ -65,11 +68,32 @@
         <li>• Detailed reading history to revisit past favorites</li>
       </ul>
       <a href="https://play.google.com/store/apps/details?id=me.manga.yami" target="_blank" rel="noopener noreferrer" class="btn">Download Now</a>
+      <a href="#privacy" class="btn">Privacy Policy</a>
+    </section>
+
+    <section id="privacy">
+      <h2>Privacy Policy</h2>
+      <p>Last updated: June 28, 2025</p>
+      <p>Yami Manga (“we”, “us”, or “our”) does not collect any personal data from users. The only information stored and processed is the identifier of the manga chapters you open within the app. This data is used solely for our future plan to provide in-app translation services and improved user recommendations.</p>
+      <p><strong>Data We Collect:</strong></p>
+      <ul>
+        <li>Identifiers for opened manga chapters (to enable translation and reading history).</li>
+      </ul>
+      <p><strong>How We Use Data:</strong></p>
+      <ul>
+        <li>To power our planned in-app translation feature.</li>
+        <li>To maintain a reading history for user convenience.</li>
+      </ul>
+      <p><strong>Data Retention:</strong> We retain this data only as long as necessary to support app functionality and translation improvements.</p>
+      <p><strong>Third-Party Services:</strong> We do not share any user data with third parties. No analytics or advertising SDKs are integrated that collect personal information.</p>
+      <p><strong>Security:</strong> We implement reasonable security measures to protect your data.</p>
+      <p><strong>Contact Us:</strong> If you have any questions or requests, please contact us at <a href="mailto:support@yami-manga.com">support@yami-manga.com</a>.</p>
     </section>
   </div>
 
   <footer>
-    &copy; 2025 Yami Manga. All rights reserved.
+    <a href="#privacy" class="btn">Privacy Policy</a>
+    <p>&copy; 2025 Yami Manga. All rights reserved.</p>
   </footer>
 </body>
 </html>
