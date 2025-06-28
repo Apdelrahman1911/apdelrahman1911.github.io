@@ -3,95 +3,137 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yami Manga - Your Ultimate Manga Reader</title>
+  <title>Yami Manga - Dive Into Stories</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --primary: #ff4f57;
+      --dark: #1b1b1d;
+      --light: #f9f9f9;
+      --text: #2c2c2e;
+      --accent: #ff9a8d;
+      --transition: 0.3s ease;
+    }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.6; color: #333; background: #f4f4f4; }
-    header { background: #1e1e1e; color: #fff; padding: 2rem 1rem; text-align: center; }
-    header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
-    header p { font-size: 1.2rem; }
-    .container { max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
-    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; }
-    .feature { background: #fff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    .feature h3 { margin-bottom: 0.75rem; color: #1e1e1e; }
-    .feature p { font-size: 0.95rem; }
-    .cta { text-align: center; margin: 3rem 0; }
-    .btn { display: inline-block; background: #ff4757; color: #fff; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 4px; font-weight: bold; margin: 0.5rem; }
-    #privacy { background: #fff; padding: 2rem 1rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin: 2rem 0; }
-    #privacy h2 { margin-bottom: 1rem; color: #1e1e1e; }
-    #privacy p { margin-bottom: 0.75rem; font-size: 0.95rem; }
-    footer { text-align: center; padding: 1rem 0; font-size: 0.9rem; color: #666; }
+    body { font-family: 'Poppins', sans-serif; background: var(--light); color: var(--text); line-height: 1.6; overflow-x: hidden; }
+    a { text-decoration: none; color: inherit; }
+    header {
+      background: linear-gradient(135deg, var(--primary), var(--accent));
+      color: #fff;
+      padding: 4rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 3rem; font-weight: 700; margin-bottom: 0.5rem; }
+    header p { font-size: 1.2rem; font-weight: 300; max-width: 600px; margin: 0 auto; }
+    .container { max-width: 1200px; margin: 3rem auto; padding: 0 1rem; }
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap: 2rem; }
+    .feature {
+      background: #fff;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+      transition: transform var(--transition), box-shadow var(--transition);
+    }
+    .feature:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    }
+    .feature h3 { margin-bottom: 0.75rem; font-size: 1.5rem; font-weight: 600; color: var(--dark); }
+    .feature p { font-size: 1rem; font-weight: 300; }
+    .cta {
+      text-align: center;
+      margin: 4rem 0;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--dark);
+      color: #fff;
+      padding: 1rem 2rem;
+      border-radius: 30px;
+      font-size: 1rem;
+      font-weight: 600;
+      transition: background var(--transition);
+      margin: 0.5rem;
+    }
+    .btn:hover { background: var(--primary); }
+    #privacy {
+      background: #fff;
+      padding: 3rem 2rem;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+      margin: 4rem 0;
+    }
+    #privacy h2 { margin-bottom: 1rem; font-size: 2rem; font-weight: 600; color: var(--dark); }
+    #privacy p, #privacy li { font-size: 0.95rem; margin-bottom: 0.75rem; font-weight: 300; }
+    #privacy ul { list-style: disc inside; margin-left: 1rem; }
+    footer {
+      background: var(--dark);
+      color: #bbb;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    footer a.btn { background: var(--light); color: var(--dark); padding: 0.75rem 1.5rem; border-radius: 20px; }
+    /* Smooth scroll */
+    html { scroll-behavior: smooth; }
   </style>
 </head>
 <body>
   <header>
     <h1>Yami Manga</h1>
-    <p>Discover and read thousands of manga from multiple sources, updated daily.</p>
+    <p>Your gateway to thousands of manga—seamlessly aggregated, updated daily, and always at your fingertips.</p>
   </header>
 
   <div class="container">
     <section class="features">
       <div class="feature">
-        <h3>Home Screen</h3>
-        <p>Browse the latest releases from diverse sources, refreshed every day.</p>
+        <h3>🌐 Unified Home</h3>
+        <p>Instantly browse the latest chapters from top manga sites in one place.</p>
       </div>
       <div class="feature">
-        <h3>Library</h3>
-        <p>Track your bookmarked manga and organize by status, date, or downloads.</p>
+        <h3>📚 Smart Library</h3>
+        <p>Organize your collection with filters for bookmarks, downloads, and more.</p>
       </div>
       <div class="feature">
-        <h3>Notifications</h3>
-        <p>Get alerts the moment new chapters drop for your saved series.</p>
+        <h3>🔔 Instant Alerts</h3>
+        <p>Receive real-time notifications the moment new chapters drop.</p>
       </div>
       <div class="feature">
-        <h3>History</h3>
-        <p>Review your reading journey with a timestamped log of every chapter.</p>
+        <h3>🕒 Reading History</h3>
+        <p>Track your journey with timestamps, so you never lose your spot.</p>
       </div>
       <div class="feature">
-        <h3>Details Screen</h3>
-        <p>See synopsis, author, genre, and jump directly to any chapter.</p>
+        <h3>📝 Details Dashboard</h3>
+        <p>View synopsis, author, genre, and navigate directly to any chapter.</p>
       </div>
       <div class="feature">
-        <h3>Reader</h3>
-        <p>Enjoy a smooth, customizable experience with zoom and navigation modes.</p>
+        <h3>📖 Smooth Reader</h3>
+        <p>Customize zoom, page-turn animations, and reading modes for comfort.</p>
       </div>
     </section>
 
-    <section class="cta">
-      <h2>Key Benefits</h2>
-      <ul style="list-style: none; padding: 1rem 0;">
-        <li>• Aggregate content from top manga sites</li>
-        <li>• Daily updates ensure the freshest chapters</li>
-        <li>• Offline reading with downloaded chapters</li>
-        <li>• Smart library management and filtering</li>
-        <li>• Real-time push notifications for new releases</li>
-        <li>• Detailed reading history to revisit past favorites</li>
-      </ul>
+    <div class="cta">
       <a href="https://play.google.com/store/apps/details?id=me.manga.yami" target="_blank" rel="noopener noreferrer" class="btn">Download Now</a>
       <a href="#privacy" class="btn">Privacy Policy</a>
-    </section>
+    </div>
 
     <section id="privacy">
       <h2>Privacy Policy</h2>
-      <p>Last updated: June 28, 2025</p>
-      <p>Yami Manga (“we”, “us”, or “our”) does not collect any personal data from users. The only information stored and processed is the identifier of the manga chapters you open within the app. This data is used solely for our future plan to provide in-app translation services and improved user recommendations.</p>
-      <p><strong>Data We Collect:</strong></p>
+      <p><strong>Last Updated:</strong> June 28, 2025</p>
+      <p>At Yami Manga, we respect your privacy. We do not collect or store any personal information about you. The only data we record is the identifiers of the manga chapters you open, which helps us:</p>
       <ul>
-        <li>Identifiers for opened manga chapters (to enable translation and reading history).</li>
+        <li>Power our upcoming in-app translation feature.</li>
+        <li>Maintain your reading history for seamless continuation.</li>
       </ul>
-      <p><strong>How We Use Data:</strong></p>
-      <ul>
-        <li>To power our planned in-app translation feature.</li>
-        <li>To maintain a reading history for user convenience.</li>
-      </ul>
-      <p><strong>Data Retention:</strong> We retain this data only as long as necessary to support app functionality and translation improvements.</p>
-      <p><strong>Third-Party Services:</strong> We do not share any user data with third parties. No analytics or advertising SDKs are integrated that collect personal information.</p>
-      <p><strong>Security:</strong> We implement reasonable security measures to protect your data.</p>
-      <p><strong>Contact Us:</strong> If you have any questions or requests, please contact us at <a href="mailto:yamimanga.dev@gmail.com">support@yami-manga.com</a>.</p>
+      <p>No data is shared with third parties, and no analytics or ad trackers are integrated.</p>
+      <h3>Data Security</h3>
+      <p>We implement industry-standard measures to safeguard your data.</p>
+      <h3>Contact</h3>
+      <p>If you have any questions, reach out at <a href="mailto:support@yami-manga.com">support@yami-manga.com</a>.</p>
     </section>
   </div>
 
   <footer>
+    <a href="#privacy" class="btn">Privacy Policy</a>
     <p>&copy; 2025 Yami Manga. All rights reserved.</p>
   </footer>
 </body>
