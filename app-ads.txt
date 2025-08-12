@@ -1,5 +1,7 @@
 google.com, pub-6540850069916280, DIRECT, f08c47fec0942fa0
 
+openx.com, 563881329, DIRECT, 6a698e2ec38604c6
+
 onetag.com, 943a52f33b71cf9, DIRECT
 onetag.com, 943a52f33b71cf9-OB, DIRECT
 appnexus.com, 13099, RESELLER
