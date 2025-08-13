@@ -38,11 +38,11 @@
   {
     "name": "AZORA",
     "api": "Azora",
-    "baseUrl": "https://zzzzzzzzzzzzzzzzzzzzzzzzzzz.com/",
-    "baseVersion": 3,
+    "baseUrl": "https://azoramoon.com/",
+    "baseVersion": 4,
     "isWorking": true,
     "imageBaseUrl": "https://azoramoon.com/",
-    "imageUrlVersion": 1
+    "imageUrlVersion": 2
   },
   {
     "name": "BATOTO",
