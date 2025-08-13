@@ -1,100 +1,149 @@
 [
   {
+    "name": "MANGAMELLO",
+    "api": "Mangamello",
+    "baseUrl": "https://api.mangamello.com/v1/mangas/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
     "name": "MANGA_LEK",
     "api": "Lekmanga",
     "baseUrl": "https://lekmanga.net/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "TEAM_X",
     "api": "Team X",
     "baseUrl": "https://olympustaff.com/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "LAVATOONS",
     "api": "Lavatoons",
     "baseUrl": "https://lavatoons.com",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "AZORA",
     "api": "Azora",
-    "baseUrl": "https://aazoramoon.com/",
-    "baseVersion": 1,
+    "baseUrl": "https://azoramoon.com/",
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "BATOTO",
     "api": "Batoto",
     "baseUrl": "https://bato.to/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "MANGABUDDY",
     "api": "Mangabuddy",
     "baseUrl": "https://mangabuddy.com",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "MANHWATOP",
     "api": "Manhwatop",
     "baseUrl": "https://manhwatop.com/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "COMICKIO",
     "api": "Comick",
     "baseUrl": "https://comick.io/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "AASQ",
     "api": "3asq",
     "baseUrl": "https://3asq.org/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "DILAR",
     "api": "Dilar",
     "baseUrl": "https://dilar.tube/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "MANHOWAWEB",
     "api": "Manhwaweb",
     "baseUrl": "https://manhwaweb.com/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "TAURUSFANSUB",
     "api": "Taurus Fansub",
     "baseUrl": "https://taurus.topmanhuas.org/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "KOMIKCAST",
     "api": "Komik Cast",
     "baseUrl": "https://komikcast.li/",
-    "baseVersion": 1,
+    "baseVersion": 0,
     "isWorking": true
   },
   {
     "name": "KOMIKU",
     "api": "Komiku",
     "baseUrl": "https://komiku.org/",
-    "baseVersion": 1,
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "MANGAORIGINES",
+    "api": "Manga Origine",
+    "baseUrl": "https://mangas-origines.fr/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "RAIJINSCAN",
+    "api": "Raijinscan",
+    "baseUrl": "https://raijinscan.co/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "MANHASTRO",
+    "api": "Manhastro",
+    "baseUrl": "https://manhastro.net/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "FLOWERMANGA",
+    "api": "Flowermanga",
+    "baseUrl": "https://flowermanga.net/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "DESU",
+    "api": "Desu",
+    "baseUrl": "https://desu.city/",
+    "baseVersion": 0,
+    "isWorking": true
+  },
+  {
+    "name": "MANGAHUB",
+    "api": "Mangahub",
+    "baseUrl": "https://mangahub.ru/",
+    "baseVersion": 0,
     "isWorking": true
   }
 ]
