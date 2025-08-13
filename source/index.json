@@ -5,8 +5,8 @@
     "baseUrl": "https://api.mangamello.com/v1/mangas/",
     "baseVersion": 0,
     "isWorking": true,
-    "imageBaseUrl": "https://raw.mangamellogithubusercontent.com/",
-    "imageUrlVersion": 2
+    "imageBaseUrl": "https://raw.githubusercontent.com/",
+    "imageUrlVersion": 3
   },
   {
     "name": "MANGA_LEK",
