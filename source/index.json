@@ -65,7 +65,7 @@
   {
     "name": "AASQ",
     "api": "3asq",
-    "baseUrl": "https://3asq.org/",
+    "baseUrl": "https://test.org/",
     "baseVersion": 2,
     "isWorking": true
   },
