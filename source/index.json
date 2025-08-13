@@ -2,8 +2,8 @@
   {
     "name": "MANGAMELLO",
     "api": "Mangamello",
-    "baseUrl": "https://api.mangamello.com/v1/mangas/xxxxxxxx",
-    "baseVersion": 1,
+    "baseUrl": "https://api.mangamello.com/v1/mangas/",
+    "baseVersion": 0,
     "isWorking": true
   },
   {
