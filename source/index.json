@@ -2,11 +2,11 @@
   {
     "name": "MANGAMELLO",
     "api": "Mangamello",
-    "baseUrl": "https://api.fuckmangamello.com/v1/mangas/",
-    "baseVersion": 1,
+    "baseUrl": "https://api.mangamello.com/v1/mangas/",
+    "baseVersion": 2,
     "isWorking": true,
-    "imageBaseUrl": "https://raw.fuckgithubusercontent.com/",
-    "imageUrlVersion": 4
+    "imageBaseUrl": "https://raw.githubusercontent.com/",
+    "imageUrlVersion": 5
   },
   {
     "name": "MANGA_LEK",
