@@ -11,11 +11,11 @@
   {
     "name": "MANGA_LEK",
     "api": "Lekmanga",
-    "baseUrl": "https://lekmanga.net/",
-    "baseVersion": 0,
+    "baseUrl": "https://asssssslekmanga.net/",
+    "baseVersion": 1,
     "isWorking": true,
-    "imageBaseUrl": "https://io.lekmanga.net/",
-    "imageUrlVersion": 1
+    "imageBaseUrl": "https://io.asssssslekmanga.net/",
+    "imageUrlVersion": 2
   },
   {
     "name": "TEAM_X",
@@ -29,11 +29,11 @@
   {
     "name": "LAVATOONS",
     "api": "Lavatoons",
-    "baseUrl": "https://lavatoons.com",
-    "baseVersion": 0,
+    "baseUrl": "https://asssssslavatoons.com",
+    "baseVersion": 1,
     "isWorking": true,
-    "imageBaseUrl": "https://lavatoons.com",
-    "imageUrlVersion": 1
+    "imageBaseUrl": "https://asssssslavatoons.com",
+    "imageUrlVersion": 2
   },
   {
     "name": "AZORA",
