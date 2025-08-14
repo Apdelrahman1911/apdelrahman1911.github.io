@@ -92,11 +92,11 @@
   {
     "name": "DILAR",
     "api": "Dilar",
-    "baseUrl": "https://fffffffdilar.tube/",
-    "baseVersion": 1,
+    "baseUrl": "https://dilar.tube/",
+    "baseVersion": 2,
     "isWorking": true,
-    "imageBaseUrl": "https://fffffffdilar.tube/",
-    "imageUrlVersion": 2
+    "imageBaseUrl": "https://dilar.tube/",
+    "imageUrlVersion": 3
   },
   {
     "name": "MANHOWAWEB",
