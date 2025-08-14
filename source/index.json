@@ -11,11 +11,11 @@
   {
     "name": "MANGA_LEK",
     "api": "Lekmanga",
-    "baseUrl": "https://lekmanga.com/",
-    "baseVersion": 3,
+    "baseUrl": "https://lekmanga.net/",
+    "baseVersion": 4,
     "isWorking": true,
-    "imageBaseUrl": "https://lekmanga.com/",
-    "imageUrlVersion": 4
+    "imageBaseUrl": "https://lekmanga.net/",
+    "imageUrlVersion": 5
   },
   {
     "name": "TEAM_X",
