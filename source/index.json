@@ -2,8 +2,8 @@
   {
     "name": "MANGAMELLO",
     "api": "Mangamello",
-    "baseUrl": "https://api.mangamello.com/v1/mangas/",
-    "baseVersion": 2,
+    "baseUrl": "https://api.mangamello.com/",
+    "baseVersion": 3,
     "isWorking": true,
     "imageBaseUrl": "https://raw.githubusercontent.com/",
     "imageUrlVersion": 5
