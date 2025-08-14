@@ -29,11 +29,11 @@
   {
     "name": "LAVATOONS",
     "api": "Lavatoons",
-    "baseUrl": "https://asssssslavatoons.com",
-    "baseVersion": 1,
+    "baseUrl": "https://lavatoons.com",
+    "baseVersion": 2,
     "isWorking": true,
-    "imageBaseUrl": "https://asssssslavatoons.com",
-    "imageUrlVersion": 2
+    "imageBaseUrl": "https://lavatoons.com",
+    "imageUrlVersion": 3
   },
   {
     "name": "AZORA",
