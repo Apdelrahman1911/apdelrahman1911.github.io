@@ -74,8 +74,8 @@
   {
     "name": "COMICKIO",
     "api": "Comick",
-    "baseUrl": "https://api.comick.fun",
-    "baseVersion": 1,
+    "baseUrl": "https://api.comick.fun/",
+    "baseVersion": 2,
     "isWorking": true,
     "imageBaseUrl": "https://meo.comick.pictures/",
     "imageUrlVersion": 1
