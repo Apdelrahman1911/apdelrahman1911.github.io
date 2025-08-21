@@ -4,7 +4,7 @@
     "api": "Mangamello",
     "baseUrl": "https://api.mangamello.com/",
     "baseVersion": 5,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://raw.githubusercontent.com/",
     "imageUrlVersion": 5
   },
@@ -13,7 +13,7 @@
     "api": "Lekmanga",
     "baseUrl": "https://lekmanga.net/",
     "baseVersion": 4,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://io.lekmanga.net/",
     "imageUrlVersion": 6
   },
@@ -22,7 +22,7 @@
     "api": "Team X",
     "baseUrl": "https://olympustaff.com/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://olympustaff.com/",
     "imageUrlVersion": 1
   },
@@ -31,7 +31,7 @@
     "api": "Lavatoons",
     "baseUrl": "https://lavatoons.com",
     "baseVersion": 2,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://lavatoons.com",
     "imageUrlVersion": 3
   },
@@ -40,7 +40,7 @@
     "api": "Azora",
     "baseUrl": "https://azoramoon.com/",
     "baseVersion": 4,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://azoramoon.com/",
     "imageUrlVersion": 2
   },
@@ -49,7 +49,7 @@
     "api": "Batoto",
     "baseUrl": "https://bato.to/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "",
     "imageUrlVersion": 0
   },
@@ -58,7 +58,7 @@
     "api": "Mangabuddy",
     "baseUrl": "https://mangabuddy.com/",
     "baseVersion": 1,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://res.mbbcdn.com/",
     "imageUrlVersion": 1
   },
@@ -67,7 +67,7 @@
     "api": "Manhwatop",
     "baseUrl": "https://manhwatop.com/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://manhwatop.com/",
     "imageUrlVersion": 1
   },
@@ -76,7 +76,7 @@
     "api": "Comick",
     "baseUrl": "https://api.comick.fun/",
     "baseVersion": 2,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://meo.comick.pictures/",
     "imageUrlVersion": 1
   },
@@ -85,7 +85,7 @@
     "api": "3asq",
     "baseUrl": "https://3asq.org/",
     "baseVersion": 5,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://3asq.org/",
     "imageUrlVersion": 1
   },
@@ -94,7 +94,7 @@
     "api": "Dilar",
     "baseUrl": "https://dilar.tube/",
     "baseVersion": 2,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://dilar.tube/",
     "imageUrlVersion": 3
   },
@@ -112,7 +112,7 @@
     "api": "Taurus Fansub",
     "baseUrl": "https://taurus.topmanhuas.org/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://taurus.topmanhuas.org/",
     "imageUrlVersion": 1
   },
@@ -121,7 +121,7 @@
     "api": "Komik Cast",
     "baseUrl": "https://komikcast.li/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://komikcast.li/",
     "imageUrlVersion": 1
   },
@@ -130,7 +130,7 @@
     "api": "Komiku",
     "baseUrl": "https://komiku.org/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://thumbnail.komiku.org/",
     "imageUrlVersion": 1
   },
@@ -139,7 +139,7 @@
     "api": "Manga Origine",
     "baseUrl": "https://mangas-origines.fr/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://mangas-origines.fr/",
     "imageUrlVersion": 1
   },
@@ -148,7 +148,7 @@
     "api": "Raijinscan",
     "baseUrl": "https://raijinscan.co/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://raijinscan.co/",
     "imageUrlVersion": 1
   },
@@ -157,7 +157,7 @@
     "api": "Manhastro",
     "baseUrl": "https://manhastro.net/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "STOPPED",
     "imageBaseUrl": "https://capa.manhastro.net/",
     "imageUrlVersion": 1
   },
@@ -166,7 +166,7 @@
     "api": "Flowermanga",
     "baseUrl": "https://flowermanga.net/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://flowermanga.net/",
     "imageUrlVersion": 1
   },
@@ -175,7 +175,7 @@
     "api": "Desu",
     "baseUrl": "https://desu.city/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://static.desu.city/",
     "imageUrlVersion": 1
   },
@@ -184,7 +184,7 @@
     "api": "Mangahub",
     "baseUrl": "https://mangahub.ru/",
     "baseVersion": 0,
-    "isWorking": true,
+    "state": "WORKING",
     "imageBaseUrl": "https://p1.statichub.org/",
     "imageUrlVersion": 1
   }
