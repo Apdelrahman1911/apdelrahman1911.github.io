@@ -128,7 +128,7 @@
   {
     "name": "KOMIKU",
     "api": "Komiku",
-    "baseUrl": "https://api.komiku.id/",
+    "baseUrl": "https://komiku.org/",
     "baseVersion": 0,
     "isWorking": true,
     "imageBaseUrl": "https://thumbnail.komiku.org/",
