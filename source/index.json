@@ -56,8 +56,8 @@
   {
     "name": "MANGABUDDY",
     "api": "Mangabuddy",
-    "baseUrl": "https://mangabuddy.com/",
-    "baseVersion": 1,
+    "baseUrl": "https://mangabuddy.com",
+    "baseVersion": 2,
     "state": "WORKING",
     "imageBaseUrl": "https://res.mbbcdn.com/",
     "imageUrlVersion": 0
