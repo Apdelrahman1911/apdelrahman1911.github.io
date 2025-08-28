@@ -138,7 +138,7 @@
     "name": "MANGAORIGINES",
     "api": "Manga Origine",
     "baseUrl": "https://mangas-origines.fr/",
-    "baseVersion": 0,
+    "baseVersion": 1,
     "state": "WORKING",
     "imageBaseUrl": "https://mangas-origines.fr/",
     "imageUrlVersion": 0
