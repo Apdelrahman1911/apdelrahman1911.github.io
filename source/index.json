@@ -209,7 +209,7 @@
     "baseUrl": "https://api.mediocretoons.com/",
     "baseVersion": 0,
     "state": "WORKING",
-    "imageBaseUrl": "https://api.mediocretoons.com/",
+    "imageBaseUrl": "https://cdn.mediocretoons.com/",
     "imageUrlVersion": 0,
   },
 
