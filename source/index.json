@@ -68,7 +68,7 @@
     "baseUrl": "https://api.promanga.net/",
     "baseVersion": 0,
     "state": "WORKING",
-    "imageBaseUrl": "https://api.promanga.net/",
+    "imageBaseUrl": "https://storage.promanga.net/",
     "imageUrlVersion": 0,
   },
 
