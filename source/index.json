@@ -6,7 +6,7 @@
     "baseVersion": 1,
     "state": "WORKING",
     "imageBaseUrl": "https://raw.githubusercontent.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MANGA_LEK",
@@ -15,7 +15,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://io.lekmanga.net/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "TEAM_X",
@@ -24,7 +24,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://olympustaff.com/",
-    "imageUrlVersion": 1,
+    "imageUrlVersion": 1
   },
   {
     "name": "LAVATOONS",
@@ -33,7 +33,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://lavatoons.com",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "AZORA",
@@ -42,7 +42,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://azoramoon.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "AASQ",
@@ -51,7 +51,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://3asq.org/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "DILAR",
@@ -60,7 +60,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://dilar.tube/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "PROMANGA",
@@ -69,7 +69,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://storage.promanga.net/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -79,7 +79,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MANGABUDDY",
@@ -88,7 +88,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://res.mbbcdn.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MANHWATOP",
@@ -97,8 +97,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://manhwatop.com/",
-    "imageUrlVersion": 0,
-    "language": "EN"
+    "imageUrlVersion": 0
   },
   {
     "name": "COMICKIO",
@@ -107,7 +106,7 @@
     "baseVersion": 1,
     "state": "WORKING",
     "imageBaseUrl": "https://meo.comick.pictures/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MANGAPARK",
@@ -116,7 +115,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://mangapark.io/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -126,7 +125,7 @@
     "baseVersion": 1,
     "state": "WORKING",
     "imageBaseUrl": "https://imagizer.imageshack.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "TAURUSFANSUB",
@@ -135,7 +134,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://taurus.topmanhuas.org/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "INMANGA",
@@ -144,7 +143,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://pack-yak.intomanga.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -154,7 +153,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://komikcast.li/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "KOMIKU",
@@ -163,7 +162,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://thumbnail.komiku.org/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -173,7 +172,7 @@
     "baseVersion": 1,
     "state": "WORKING",
     "imageBaseUrl": "https://mangas-origines.fr/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "RAIJINSCAN",
@@ -182,7 +181,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://raijinscan.co/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -192,7 +191,7 @@
     "baseVersion": 0,
     "state": "STOPPED",
     "imageBaseUrl": "https://capa.manhastro.net/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "FLOWERMANGA",
@@ -201,7 +200,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://flowermanga.net/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MEDIOCRETOONS",
@@ -210,7 +209,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://cdn.mediocretoons.com/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
 
   {
@@ -220,7 +219,7 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://static.desu.city/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   },
   {
     "name": "MANGAHUB",
@@ -229,6 +228,6 @@
     "baseVersion": 0,
     "state": "WORKING",
     "imageBaseUrl": "https://p1.statichub.org/",
-    "imageUrlVersion": 0,
+    "imageUrlVersion": 0
   }
 ]
